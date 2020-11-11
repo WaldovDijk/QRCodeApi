@@ -7,6 +7,7 @@ See [Ts.ED](https://tsed.io) project for more information.
 ## Build setup
 
 > **Important!** Ts.ED requires Node >= 10, Express >= 4, TypeScript >= 3 and yarn.
+
 > **Important!** Follow these instructions step by step!
 
 ```batch
