@@ -15,6 +15,13 @@ See [Ts.ED](https://tsed.io) project for more information.
 $ npm i
 $ yarn
 
+# create .env file
+
+CLIENT_ID=SWIAVGJTSNBWNZZGOGNNUULIWQ
+CLIENT_SECRET=Q051c040enpNMjlsVWttQVJQc3IyQjhDWGFTSmZ2N1liYlgyVTE
+CLIENT_URL=https://qrcode.shopworks-clients.nl/
+PORT=8080
+
 # start server
 $ npm start
 
