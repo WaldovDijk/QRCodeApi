@@ -12,7 +12,7 @@ See [Ts.ED](https://tsed.io) project for more information.
 
 ```batch
 
-NodeJS Windows: https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi
+NodeJS Windows: [a link](https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi)
 NodeJS MacOS: https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg
 
 ```
