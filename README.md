@@ -10,9 +10,9 @@ See [Ts.ED](https://tsed.io) project for more information.
 
 > **Important!** Make sure you have NodeJS installed!
 
-[NodeJS Windows](https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi)
+> [NodeJS Windows](https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi)
 
-[NodeJS MacOS](https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg)
+> [NodeJS MacOS](https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg)
 
 
 > **Important!** Make sure you have yarn installed!
@@ -21,7 +21,7 @@ See [Ts.ED](https://tsed.io) project for more information.
 Yarn Windows: npm i -g yarn
 Yarn MacOS: brew install yarn
 ```
-[Brew](https://brew.sh/)
+> [Brew](https://brew.sh/)
 
 > **Important!** Ts.ED requires Node >= 10, Express >= 4, TypeScript >= 3.
 
