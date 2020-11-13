@@ -6,9 +6,28 @@ See [Ts.ED](https://tsed.io) project for more information.
 
 ## Build setup
 
-> **Important!** Ts.ED requires Node >= 10, Express >= 4, TypeScript >= 3 and yarn.
-
 > **Important!** Follow these instructions step by step!
+
+> **Important!** Make sure you have NodeJS installed!
+
+```batch
+
+NodeJS Windows: https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi
+NodeJS MacOS: https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg
+
+```
+
+> **Important!** Make sure you have yarn installed!
+
+```batch
+
+Yarn Windows: npm i -g yarn
+Yarn MacOS: brew install yarn
+?Brew: https://brew.sh/
+
+```
+
+> **Important!** Ts.ED requires Node >= 10, Express >= 4, TypeScript >= 3.
 
 ```batch
 # install dependencies
@@ -32,8 +51,6 @@ $ npm start
 > **Important!** These are the only routes available on this API. There are more routes in the shopware API.
 
 ```batch
-# Show all routes available on admin API
-GET - /v1/api/routes
 
 # Get authentication token from shopware API
 GET - /v1/api/token

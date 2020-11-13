@@ -31,15 +31,6 @@ interface IData {
 
 @Controller('/api')
 export class ShopworksController {
-  @Get('/routes')
-  @ContentType('json')
-  async getRoutes(request: Request, response: Response): Promise<any> {
-    const data: IData = await routes.getRoutes();
-    const apiRoutes: any = Object.keys(data.data.paths);
-
-    console.log(data.data.paths[0]);
-    return apiRoutes;
-  }
   @Get('/token')
   @ContentType('json')
   async getToken(request: Request, response: Response): Promise<any> {
