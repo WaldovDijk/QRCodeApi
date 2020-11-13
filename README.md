@@ -18,12 +18,10 @@ See [Ts.ED](https://tsed.io) project for more information.
 > **Important!** Make sure you have yarn installed!
 
 ```batch
-
 Yarn Windows: npm i -g yarn
 Yarn MacOS: brew install yarn
-?Brew: https://brew.sh/
-
 ```
+[Brew](https://brew.sh/)
 
 > **Important!** Ts.ED requires Node >= 10, Express >= 4, TypeScript >= 3.
 
