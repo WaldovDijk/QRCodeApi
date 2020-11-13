@@ -10,12 +10,9 @@ See [Ts.ED](https://tsed.io) project for more information.
 
 > **Important!** Make sure you have NodeJS installed!
 
-```batch
+[NodeJS Windows](https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi)
+[NodeJS MacOS](https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg)
 
-NodeJS Windows: [a link](https://nodejs.org/dist/v14.15.0/node-v14.15.0-x64.msi)
-NodeJS MacOS: https://nodejs.org/dist/v14.15.0/node-v14.15.0.pkg
-
-```
 
 > **Important!** Make sure you have yarn installed!
 
