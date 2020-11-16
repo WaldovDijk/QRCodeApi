@@ -30,16 +30,20 @@ Yarn MacOS: brew install yarn
 $ npm i
 $ yarn
 
-# create .env file
+```
 
+> **Important!** Create a .env file in the server folder and put this in there!!
+
+```batch
 CLIENT_ID=SWIAVGJTSNBWNZZGOGNNUULIWQ
 CLIENT_SECRET=Q051c040enpNMjlsVWttQVJQc3IyQjhDWGFTSmZ2N1liYlgyVTE
 CLIENT_URL=https://qrcode.shopworks-clients.nl/
 PORT=8080
+```
 
-# start server
+># start server
+```batch
 $ npm start
-
 ```
 
 ## Different routes
